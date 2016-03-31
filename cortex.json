@@ -1,0 +1,23 @@
+{
+  "name": "react-demo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {},
+  "repository": "git://github.com/carolineF/react-demo.git",
+  "keywords": [
+    "react"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "wangfengzhu",
+    "email": "wangfengzhu@meituan.com"
+  },
+  "bugs": {
+    "url": "http://github.com/carolineF/react-demo/issues"
+  },
+  "homepage": "http://github.com/carolineF/react-demo"
+}
